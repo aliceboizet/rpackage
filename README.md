@@ -1,1 +1,1 @@
-# test of creating a R package
+# test of creating a R package called "aliceboizet"
